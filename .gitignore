@@ -1,0 +1,77 @@
+# Compiled class file#
+*.class
+
+# Log file#
+*.log
+logs/
+upload/
+
+# BlueJ files#
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Run #
+*.exe
+*.dll
+*.exe
+*.o
+*.so
+
+# Document #
+*.pptx
+*.docx
+*.ppt
+*.xls
+*.xlsx
+*.doc
+*.pdf
+
+# System #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.dmg
+*.gz
+*.iso
+*.tar
+
+# Eclipse setting #
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.externalToolBuilders/
+*.launch
+.classpath
+.factorypath
+.buildpath
+.target
+.tern-project
+.springBeans
+.recommenders/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
